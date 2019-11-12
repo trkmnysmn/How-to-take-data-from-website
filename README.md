@@ -1,1 +1,2 @@
-# How-to-take-data-from-website
+# How-to-take-data-from-website 
+This tutorial was created to ligth of bootcamp homework. Website databases are such a important for data mining. Therefore, I prepared the code that is related how to get data from website. I used requests library and BeatifulSoup library. In addition to, Java script doesn't let to accessing data over the website without login active. In order to solve this problem, you can use  selenium library.
